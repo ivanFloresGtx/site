@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< HEAD
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -18,6 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+          Hello this is my website
+        </p>
+     </header>
+>>>>>>> gh-pages
     </div>
   );
 }
